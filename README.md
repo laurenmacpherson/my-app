@@ -1,3 +1,7 @@
+# This repo was made for the purpose of experimenting with and learning React
+
+As such, I'll be keeping the documentation below (included from bootstrapping) for my own reference both as I work and in the future. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
